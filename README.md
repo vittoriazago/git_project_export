@@ -21,6 +21,9 @@ Production enviroment:
 # Lint check
 ```flake8```
 
+# Testing
+```pytest```
+
 # Docker image
 Building:
 
